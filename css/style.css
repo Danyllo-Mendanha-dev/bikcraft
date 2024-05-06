@@ -32,5 +32,8 @@
 @import "./seguros/vantagens.css";
 @import "./seguros/perguntas.css";
 
+/* Orçamento */
+@import "./orcamento/orcamento.css";
+
 /* Termos e Condições */
 @import "./termos/termos.css";
